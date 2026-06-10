@@ -1,10 +1,13 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
-# Tiny Tapeout Verilog Project Template
+# Tiny Tapeout FPGA Game Controller
 
 https://fpga.vga-playground.pages.dev/?repo=https://github.com/alexandercoabad/TT_FPGA_game_controller
 
 <img width="1302" height="942" alt="image" src="https://github.com/user-attachments/assets/4050053d-b47d-4617-a803-8ea3860b27fc" />
+
+
+
 
 
 ## What is Tiny Tapeout?
