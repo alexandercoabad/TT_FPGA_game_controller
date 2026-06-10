@@ -2,6 +2,9 @@
 
 # Tiny Tapeout FPGA Game Controller
 
+video link: https://www.linkedin.com/posts/alexander-co-abad-79445767_here-is-my-simple-project-using-tiny-tapeout-ugcPost-7470438370788368385-u_8V/
+
+
 https://fpga.vga-playground.pages.dev/?repo=https://github.com/alexandercoabad/TT_FPGA_game_controller
 
 <img width="1302" height="942" alt="image" src="https://github.com/user-attachments/assets/4050053d-b47d-4617-a803-8ea3860b27fc" />
