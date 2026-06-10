@@ -9,7 +9,8 @@ https://fpga.vga-playground.pages.dev/?repo=https://github.com/alexandercoabad/T
 
 <img width="1636" height="1198" alt="image" src="https://github.com/user-attachments/assets/5ca4703d-4fe8-4940-acd2-617543a20359" />
 
-
+## Link to 3D viewer
+https://gds-viewer.tinytapeout.com/?model=https://alexandercoabad.github.io/TT_FPGA_game_controller/tinytapeout.oas&pdk=sky130A
 
 ## What is Tiny Tapeout?
 
