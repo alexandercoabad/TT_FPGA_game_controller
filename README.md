@@ -7,6 +7,7 @@ https://fpga.vga-playground.pages.dev/?repo=https://github.com/alexandercoabad/T
 <img width="1302" height="942" alt="image" src="https://github.com/user-attachments/assets/4050053d-b47d-4617-a803-8ea3860b27fc" />
 
 
+<img width="1636" height="1198" alt="image" src="https://github.com/user-attachments/assets/5ca4703d-4fe8-4940-acd2-617543a20359" />
 
 
 
