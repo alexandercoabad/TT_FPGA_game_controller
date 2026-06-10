@@ -2,7 +2,10 @@
 
 # Tiny Tapeout Verilog Project Template
 
-- [Read the documentation for project](docs/info.md)
+https://fpga.vga-playground.pages.dev/?repo=https://github.com/alexandercoabad/TT_FPGA_game_controller
+
+<img width="1302" height="942" alt="image" src="https://github.com/user-attachments/assets/4050053d-b47d-4617-a803-8ea3860b27fc" />
+
 
 ## What is Tiny Tapeout?
 
